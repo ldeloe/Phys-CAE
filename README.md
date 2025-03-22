@@ -1,4 +1,4 @@
-# SYDE-720
+# Phys-CAE
 Code associated with an evaluation of the method proposed by Mohan et al. (2023) for embedding hard constraints in machine learning models. This method is designed for reconstructing coarse-grained representations of 3-dimensional turbulence. 
 
 I evaluate the impacts of boundary conditions and enforcement of the divergence-free condition for 2-dimensional turbulence, setting the third dimension of the field to 0.
