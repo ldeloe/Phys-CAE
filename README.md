@@ -9,4 +9,5 @@ Lower total absolute divergence was achieved for the model incorporating hard ph
 
 ---
 REFERENCES 
+
 Mohan, A., Lubbers, T., Chertkov, M., & Livescu, D. (2023). Embedding hard physical constraints in neural network coarse-graining for three-dimensional turbulence. Physical Review Fluids, 014604. 
